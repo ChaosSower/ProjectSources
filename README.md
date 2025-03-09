@@ -12,3 +12,4 @@
 | 5 | Digital Schedule Editor | WPF | 11.23 | 05.24 | 120 дней |
 | 6 | Digital Contacts Notebook | WPF | 09.24 | 09.24 | 7 дней |
 | 7 | MajorExpressWMS | WPF | 10.24 | 10.24 | 7 дней |
+| 8 | Area Calculator | CLI | 03.25 | 03.25 | 2 дня |
